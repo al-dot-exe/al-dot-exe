@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [**jsRadio**](https://github.com/alEXE-tech/jsRadio)
 
-- 🌱 I’m currently learning **Node.js && Metasploit**
+- 🌱 I’m currently learning **Express.js**
 
 - 👨‍💻 All of my projects are available at [https://alexe-tech.github.io/projects/](https://alexe-tech.github.io/projects/)
 

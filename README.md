@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/alexe_tech" target="blank"><img src="https://img.shields.io/twitter/follow/alexe_tech?logo=twitter&style=for-the-badge" alt="alexe_tech" /></a> </p>
 
-- 🔭 I’m currently working on [**Full Stack Open**](https://fullstackopen.com/en/)
+- 🔭 I’m currently working on [**BTC Pay Server**](https://github.com/btcpayserver)
 
 - 🌱 I’m currently learning [**Web App Fundamentals**](https://fullstackopen.com/en/part0) and [**Web Hacking Fundamentals**](https://tryhackme.com/paths)
 - 👨‍💻 All of my projects are available at [https://alexe-tech.github.io/projects/](https://alexe-tech.github.io/projects/)

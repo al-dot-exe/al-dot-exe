@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [**BTC Pay Server**](https://github.com/btcpayserver)
 
-- 🌱 I’m currently learning [**Web App Fundamentals**](https://fullstackopen.com/en/part0) and [**Web Hacking Fundamentals**](https://tryhackme.com/paths)
+- 🌱 I’m currently learning [**React**](https://www.youtube.com/watch?v=w7ejDZ8SWv8) and [**Web Hacking Fundamentals**](https://tryhackme.com/paths)
 - 👨‍💻 All of my projects are available at [https://alexe-tech.github.io/projects/](https://alexe-tech.github.io/projects/)
 
 - 📝 I regularly write articles on [https://alexe-tech.github.io/posts/](https://alexe-tech.github.io/posts/)

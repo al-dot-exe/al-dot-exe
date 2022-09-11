@@ -1,3 +1,4 @@
+![](https://github.com/alEXE-tech/alEXE-tech/blob/main/cover.png)
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">(Developer && Security Researcher) && (Investor 📉 || Musician 🎹 || Yogi 🧘🏾‍♂️)</h3>
 

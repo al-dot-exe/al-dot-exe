@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">(Developer && Security Researcher) && (Investor 📉 || Musician 🎹 || Yogi 🧘🏾‍♂️)</h3>
 
-<p align="left"> <a href="https://twitter.com/alexe_tech" target="blank"><img src="https://img.shields.io/twitter/follow/alexe_tech?logo=twitter&style=for-the-badge" alt="alexe_tech" /></a> </p>
+<p align="left"> <a href="https://twitter.com/al_dot_exe" target="blank"><img src="https://img.shields.io/twitter/follow/alexe_tech?logo=twitter&style=for-the-badge" alt="al_dot_exe" /></a> </p>
 
 - 🔭 I’m currently working on [**BTC Pay Server**](https://github.com/btcpayserver)
 
@@ -25,8 +25,8 @@
 <p align="left">
 <a href="https://codepen.io/alexe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alexe" height="30" width="40" /></a>
 <a href="https://dev.to/alexe_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alexe_tech" height="30" width="40" /></a>
-<a href="https://twitter.com/alexe_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexe_tech" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alexe-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexe-tech" height="30" width="40" /></a>
+<a href="https://twitter.com/al_dot_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexe_tech" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/al-exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexe-tech" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

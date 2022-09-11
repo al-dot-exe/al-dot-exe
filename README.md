@@ -1,6 +1,6 @@
 ![](https://github.com/alEXE-tech/alEXE-tech/blob/main/cover.png)
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">(Developer && Security Researcher) && (Investor 📉 || Musician 🎹 || Yogi 🧘🏾‍♂️)</h3>
+<h3 align="center">Software Developer & Security Researcher 🔒👨‍💻🔓</h3>
 
 <p align="left"> <a href="https://twitter.com/al_dot_exe" target="blank"><img src="https://img.shields.io/twitter/follow/alexe_tech?logo=twitter&style=for-the-badge" alt="al_dot_exe" /></a> </p>
 

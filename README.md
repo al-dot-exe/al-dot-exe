@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Software Developer & Security Researcher 🔒👨‍💻🔓</h3>
 
-<p align="left"> <a href="https://twitter.com/al_dot_exe" target="blank"><img src="https://img.shields.io/twitter/follow/alexe_tech?logo=twitter&style=for-the-badge" alt="al_dot_exe" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Al_dot_exe" target="blank"><img src="https://img.shields.io/twitter/follow/al_dot_exe?logo=twitter&style=for-the-badge" alt="al_dot_exe" /></a> </p>
 
-- 🔭 I’m currently working on [**BTC Pay Server**](https://github.com/btcpayserver)
+- 🔭 I’m currently working on [**Toucan**](https://github.com/alEXE-tech/Toucan)
 
 - 🌱 I’m currently learning [**React**](https://www.youtube.com/watch?v=w7ejDZ8SWv8) and [**Web Hacking Fundamentals**](https://tryhackme.com/paths)
 - 👨‍💻 All of my projects are available at [https://alexe-tech.github.io/projects/](https://alexe-tech.github.io/projects/)

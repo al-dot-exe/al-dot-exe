@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **linux fu || vim || web dev || web security**
 
-- 📫 How to reach me **alEXE-tech@protonmail.com**
+- 📫 You can reach by [**email**](mailto:alex_burton.hhoql@simplelogin.com)
 
 - ⚡ Fun fact **I'm most likely dancing when I'm not sitting**
 

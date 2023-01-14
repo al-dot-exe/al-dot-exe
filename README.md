@@ -7,9 +7,9 @@
 - 🔭 I’m currently working on [**Toucan**](https://github.com/alEXE-tech/Toucan)
 
 - 🌱 I’m currently learning [**Cheat Engine**](https://www.cheatengine.org/) and [**Web Hacking Fundamentals**](https://tryhackme.com/paths)
-- 👨‍💻 All of my projects are available at [https://alexe-tech.github.io/projects/](https://alexe-tech.github.io/projects/)
+- 👨‍💻 All of my projects are available at [https://al-dot-exe.github.io/projects/](https://al-dot-exe.github.io/projects/)
 
-- 📝 I regularly write articles on [https://alexe-tech.github.io/posts/](https://alexe-tech.github.io/posts/)
+- 📝 I regularly write articles on [https://al-dot-exe.github.io/posts/](https://al-dot-exe.github.io/posts/)
 
 - 💬 Ask me about **linux fu || vim || web dev || web security**
 
